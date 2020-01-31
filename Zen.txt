@@ -4,7 +4,7 @@ Zen!!!
 3.Simple is better than complex.
 4. Complex is better than complicated.
 5.
-6.
+6.Sparse is better than dense.
 7. Have a great weekend
 8. Special cases aren't special enough to break the rules.
 9.Although practicality beats purity.
