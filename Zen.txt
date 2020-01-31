@@ -10,4 +10,4 @@ Zen!!!
 9.Although practicality beats purity."Roman Yevchack"
 10.
 11.
-12.
+12.In the face of ambiguity, refuse the temptation to guess.
