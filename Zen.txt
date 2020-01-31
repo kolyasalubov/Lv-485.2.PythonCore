@@ -1,7 +1,7 @@
 Zen!!!
 1.Beautiful is better than ugly.
 2.
-3.
+3.Simple is better than complex.
 4. Complex is better than complicated.
 5.
 6.
@@ -11,3 +11,4 @@ Zen!!!
 10.
 11.
 12.In the face of ambiguity, refuse the temptation to guess.
+
