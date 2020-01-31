@@ -1,5 +1,5 @@
 Zen!!!
-1.
+1.Beautiful is better than ugly.
 2.
 3.Simple is better than complex.
 4.
@@ -7,7 +7,7 @@ Zen!!!
 6.
 7.
 8.
-9.
+9.Although practicality beats purity.
 10.
 11.
 12.
