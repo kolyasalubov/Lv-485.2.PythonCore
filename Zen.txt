@@ -7,7 +7,7 @@ Zen!!!
 6.
 7. Have a great weekend
 8. Special cases aren't special enough to break the rules.
-9.Although practicality beats purity."Roman Yevchack"
+9.Although practicality beats purity.
 10.Errors should never pass silently.
 11.Unless explicitly silenced.
 12.In the face of ambiguity, refuse the temptation to guess.
