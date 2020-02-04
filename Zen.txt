@@ -17,7 +17,7 @@ Zen!!!
 16.Although never is often better than *right* now.
 17.If the implementation is hard to explain, it's a bad idea.
 18.Readability counts.
-19.
+19.Namespaces are one honking great idea—let's do more of those!
 20.
 21.
 22.Simple is better than complex.
